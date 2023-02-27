@@ -6,4 +6,4 @@ class Operation:
     def addition(self):
         print(self.nombre1 + self.nombre2)
 
-print(Operation)
+print(Operation(0,1))
